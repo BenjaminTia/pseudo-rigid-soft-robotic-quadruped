@@ -90,6 +90,20 @@ The design target is **tight-space manoeuvring**: cluttered, confined, awkward g
 
 ---
 
+## More views
+
+<!-- IMAGE: print layout -->
+![Print layout preview](images/print-layout.png)
+
+*Fabrication layout preview for the soft-leg parts. Shows how the parts are arranged for printing, not a validated print.*
+
+<!-- IMAGE: earlier hybrid leg preview -->
+![Earlier hybrid leg arrangement](images/hybrid-leg-preview.png)
+
+*An earlier arrangement of the same idea: rigid root, soft body. Superseded by the concept above.*
+
+---
+
 ## What this repository deliberately does not contain
 
 - Native CAD and STEP sources for the leg, the body and the mechanism
